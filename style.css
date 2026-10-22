@@ -1,0 +1,50 @@
+.nav{
+    display: flex;
+    width: 1440;
+    height: 955;
+    left: 16px;
+    margin:auto;
+    background-color: silver;
+    gap:50px;
+#ho{
+    justify-content: space-between;
+#highlight2{
+    color:green;
+    justify-content: end;
+}
+}
+#button{
+    border-radius: 2px;
+    background:green;
+    color: white;
+    justify-content: end;
+}
+    
+}
+.body{
+    display:flex;
+    width: 128;
+    height: 52;
+    gap: 10px;
+    background-color:white;
+    margin:auto;
+
+}
+.h1p{
+    text-align: end;
+    padding-top: 50px;
+    gap: 10px;
+}
+#highlight{
+    text-align: match-parent;
+    color:green;
+}
+.h2p{
+    display:inline-block;
+    width:120;
+    height:49;
+   justify-content:center ;
+}
+
+
+
